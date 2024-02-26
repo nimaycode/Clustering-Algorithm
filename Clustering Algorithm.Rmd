@@ -1,6 +1,6 @@
 ---
-title: "Homework-08"
-author: "Vijay K. Gurbani, Ph.D., Illinois Institute of Technology"
+title: "Clustering Algorithm"
+author: "Nimay"
 output:
   html_notebook:
     toc: yes
